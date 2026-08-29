@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 LoLCATs-Linear-Attention
+# 线性注意力大模型蒸馏 | LoLCATs-Linear-Attention
 
 ### Linear attention to break LLM compute bottlenecks.
 
